@@ -1,4 +1,4 @@
-## Hi there 👋
+## Suyeon Kim
 
 <!--
 **SuyeonKim1702/SuyeonKim1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 Driven iOS Software Engineer 
+💻 Driven iOS Developer
 
  As an iOS developer with over 3.5 years of experience, working on LINE WORKS. I specialize in building and optimizing scalable, secure enterprise communication and collaboration solutions.
 Developing a large-scale app has strengthened my ability to address diverse requirements from international users while ensuring stability and reliability.
+- [My Linkedin Page](https://www.linkedin.com/in/suyeon-kim-51a850207/)
 
 
 💪🏻 Key Strengths
