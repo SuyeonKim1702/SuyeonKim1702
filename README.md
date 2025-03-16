@@ -42,7 +42,7 @@ I strive to think beyond a single solution, exploring multiple alternatives to t
 📚 Constant Learning and Passion for Innovation
 
 I have a strong passion for learning new technologies and sharing knowledge with others. I enjoy applying the techniques I’ve learned in real-world projects and always seek opportunities to refine my skills.
-* Books I read in study group: Clean Code, Clean Architecture, Object, Refactoring, Head First Design Patterns … 
+* Books I've read in study group: Clean Code, Clean Architecture, Object, Refactoring, Head First Design Patterns … 
 * My Dev blog: https://medium.com/@suyeon7979
 
 
